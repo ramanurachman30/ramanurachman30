@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=ramanurachman30&style=flat-square&color=blue" alt=""/>
 
   <h1>
-    hey there
+    hey there, I'm Muhammad Nurachman Musyaffa Or Rama :)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   </h1>
   
